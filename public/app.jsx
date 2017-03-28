@@ -7,8 +7,10 @@ var Greeter = require('./components/Greeter.jsx');
 
 var man = {
   name:'Admi',
-  umar:'pachchees'
+  umar:'pachchees',
+  balance:'20 rupiya'
 };
+
 
 ReactDOM.render(
     //1st is the tag you want to render
