@@ -15,7 +15,7 @@ var womaaaaaan = {
     naam : ' Nacheez aurat ',
     umar : '16 Baras',
 
-}
+};
 
 ReactDOM.render(
     //1st is the tag you want to render
