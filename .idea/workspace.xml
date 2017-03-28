@@ -56,8 +56,8 @@
       <file leaf-file-name="app.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/app.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="147">
+              <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -225,7 +225,7 @@
       <workItem from="1489601837608" duration="1832000" />
       <workItem from="1490116887190" duration="273000" />
       <workItem from="1490117232843" duration="7109000" />
-      <workItem from="1490687729797" duration="291000" />
+      <workItem from="1490687729797" duration="407000" />
     </task>
     <task id="LOCAL-00001" summary="Second Commit">
       <created>1490687951632</created>
@@ -234,11 +234,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490687951632</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Third Commit">
+      <created>1490688063463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1490688063463</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9505000" />
+    <option name="totallyTimeSpent" value="9621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -271,7 +278,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
+    <MESSAGE value="Third Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -340,8 +348,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/app.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="147">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding />
         </state>
       </provider>
