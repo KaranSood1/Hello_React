@@ -5,7 +5,10 @@ var Greeter = require('./components/Greeter.jsx');
 
 
 
-
+var man = {
+  name:'Admi',
+  umar:'pachchees'
+};
 
 ReactDOM.render(
     //1st is the tag you want to render
